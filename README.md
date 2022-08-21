@@ -18,4 +18,4 @@ Figure 3: The email in the recipiants inbox (Yahoomail)
 
 Figure 4: The program being run daily by a cloud hosting provider
 
-Insted of running the program manually everyday to see if it is anyones birthday, it can be automated. Figure 4 shows a website called "PythonAnywhere" where the code was uploaded and runs everyday at 10am
+Instead of running the program manually everyday to see if it is anyones birthday, it can be automated. Figure 4 shows a website called "PythonAnywhere" where the code was uploaded and runs everyday at 10am
