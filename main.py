@@ -2,8 +2,8 @@ import pandas
 import datetime as dt
 import random
 import smtplib
-my_email = "sulav1080@outlook.com"  # The email and password for the host (Outlook)
-password = "Orchid123!"  # These details will not work, please create your own Outlook account
+my_email = "test123@outlook.com"  # The email and password for the host (Outlook)
+password = "test123456!"  # These details will not work, please create your own Outlook account
 now = dt.datetime.now()  # use the datetime class (dt) of the datetime module to get the time now
 birthday_info = pandas.read_csv("birthdays.csv")  # Read the csv file which contains birthday date and user information into a data frame
 
